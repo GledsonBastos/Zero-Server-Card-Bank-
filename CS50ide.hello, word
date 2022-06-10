@@ -1,0 +1,6 @@
+1#include <stdio.h>
+2
+3int main(void)
+4{
+5    printf("hello, world!\n");
+6}
