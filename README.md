@@ -36,7 +36,7 @@ Servidor de Bank
 
 • O Servidor - Zero Server Card Bank Vai Cria uma nova Moeda um novo Dinheiro para circular entre os servidores bancário.
 
---Aí você se perguntar de onde vai vim esse dinheiro para ser destruido entre as pessoas??
+--Aí você se perguntar de onde vai vim esse dinheiro para ser destribuido entre as pessoas??
 
 Esse dinheiro vai ser criado escrito nos software e hardware
 
