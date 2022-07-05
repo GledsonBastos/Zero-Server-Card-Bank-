@@ -43,3 +43,6 @@ Esse dinheiro vai ser criado escrito nos software e hardware
 Vai ser um programa de criação de dinheiro um novo Dinheiro escrito e destribuido entre todas as criatura humana
 
 Esse dinheiro vai ser feito criado escrito do Zero um programa
+
+
+![GridArt_20220705_000224265](https://user-images.githubusercontent.com/62495617/177243654-9d4f930a-bf80-4e5c-bdf9-b5ab03f9fa3a.jpg)
