@@ -1,5 +1,9 @@
 # Zero-Server-Card-Bank-
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/blob/80fbe2cfa485917650080190024880e3261bed53/LICENSE)
+
+
+
 ![GridArt_20220705_000224265](https://user-images.githubusercontent.com/62495617/177243654-9d4f930a-bf80-4e5c-bdf9-b5ab03f9fa3a.jpg)
 
 Sincronizar Servidores dos Bancos mundial com o Servidor Zero Server Card Bank O Futuro Está Aqui 
