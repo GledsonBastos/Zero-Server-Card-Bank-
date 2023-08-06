@@ -53,3 +53,6 @@ Esse dinheiro vai ser feito criado escrito do Zero um programa
 
 
 ![GridArt_20220705_000224265](https://user-images.githubusercontent.com/62495617/177243654-9d4f930a-bf80-4e5c-bdf9-b5ab03f9fa3a.jpg)
+Organizações em transição descriptografando agrupamento binário para quântico...
+Como resultado, esses criptosistemas precisam ser substituídos por algoritmos resistentes a quantum, também conhecidos como algoritmos de criptografia pós-quântica.
+![GridArt_20230806_081914026](https://github.com/GledsonBastos/Zero-Server-Card-Bank-/assets/62495617/413f11c4-c542-4fb2-9556-48cae7db78cb)
