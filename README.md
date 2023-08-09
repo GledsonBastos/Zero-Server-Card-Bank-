@@ -13,7 +13,7 @@ Sincronizar Servidores dos Bancos mundial com o Servidor Zero Server Card Bank O
 
 # Worldbank wishes you all the best.
 
-# Doação é o ato de dar um bem próprio a outra pessoa, geralmente alguém necessitado a auto-redução à pobreza ,para assegurar a sobrevivência humana evitando que fiquem na pobreza, e um meio de proteger a sociedade 
+## Doação é o ato de dar um bem próprio a outra pessoa, geralmente alguém necessitado a auto-redução à pobreza ,para assegurar a sobrevivência humana evitando que fiquem na pobreza, e um meio de proteger a sociedade 
 
 
 
