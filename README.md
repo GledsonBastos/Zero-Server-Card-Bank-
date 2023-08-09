@@ -9,6 +9,13 @@
 Sincronizar Servidores dos Bancos mundial com o Servidor Zero Server Card Bank O Futuro Está Aqui 
 ![GridArt_20230809_030237728](https://github.com/GledsonBastos/Zero-Server-Card-Bank-/assets/62495617/25efa033-d8d6-40ef-bd79-bf02f083c0ed)
 
+#Congratulations!!! Your grant have been approved.
+
+Worldbank wishes you all the best.
+
+Doação é o ato de dar um bem próprio a outra pessoa, geralmente alguém necessitado a auto-redução à pobreza ,para assegurar a sua sobrevivência evitando que fiquem na pobreza, e um meio de proteger a sociedade para assegurar a sobrevivência dos humanos 
+
+World Bank received your application requesting for a grant from the World Bank group.
 https://sites.google.com/view/synchronizeservidorzero/
 
 Download do Aplicativo Link: https://www.mediafire.com/file/ngukw8z0iv9o3oy/Bank_Zero_Server_Card.apk/file
