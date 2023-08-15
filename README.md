@@ -1,6 +1,6 @@
 # Zero-Server-Card-Bank-
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/blob/80fbe2cfa485917650080190024880e3261bed53/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)]https://github.com/GledsonBastos/Wallet-Digital-Zero-Server-Card-Bank/blob/80fbe2cfa485917650080190024880e3261bed53/LICENSE)
 
 
 
