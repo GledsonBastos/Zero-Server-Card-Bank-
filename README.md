@@ -6,6 +6,8 @@
 
 ![GridArt_20220705_000224265](https://user-images.githubusercontent.com/62495617/177243654-9d4f930a-bf80-4e5c-bdf9-b5ab03f9fa3a.jpg)
 
+https://zero-server-card-bank.netlify.app/
+
 Sincronizar Servidores dos Bancos mundial com o Servidor Zero Server Card Bank O Futuro Está Aqui 
 ![GridArt_20230809_030237728](https://github.com/GledsonBastos/Zero-Server-Card-Bank-/assets/62495617/25efa033-d8d6-40ef-bd79-bf02f083c0ed)
 
