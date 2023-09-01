@@ -28,12 +28,12 @@ Contrato do Usuários Link:https://sites.google.com/view/synchronizeservidorzero
 
 ![Screenshot_20220115-025417~2](https://user-images.githubusercontent.com/62495617/173076938-dcf6b354-6c9a-4336-a053-0da59239f1a6.png)
 
-Em informática , um servidor é um [ software ]ou [ [ computador ], com sistema de [ computação ] centralizada que fornece serviços a uma  [rede de computadores ]chamada de [ cliente ]
-Esses serviços podem ser de naturezas distintas, como por exemplo, [ arquivos ] e [ correio eletrônico ]
+Em informática , um servidor é um software ou computador , com sistema de computação centralizada que fornece serviços a uma rede de computadores chamada de  cliente 
+Esses serviços podem ser de naturezas distintas, como por exemplo, arquivos  e  correio eletrônico 
 
-Esta [ arquitetura ] é chamada de modelo [ cliente-servidor (Cliente-servidor), é utilizada em redes de médio e grande porte 
+Esta arquitetura  é chamada de modelo  cliente-servidor (Cliente-servidor), é utilizada em redes de médio e grande porte 
 
-Os servidores podem fornecer várias funcionalidades, muitas vezes chamado de "serviços", tais como a partilha de dados ou [de recursos do sistema  entre vários - pessoas 
+Os servidores podem fornecer várias funcionalidades, muitas vezes chamado de "serviços", tais como a partilha de dados ou de recursos do sistema  entre vários - pessoas 
 
 • Existem diversos tipos de servidores. Os mais conhecidos são:
 
